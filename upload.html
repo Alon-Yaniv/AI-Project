@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+
+{% block content %}
+
+
+<body>
+    <h2>Upload Video</h2>
+    <form action="{{url_for('upload')}}" method ="post" enctype="multipart/form-data">
+        <input type="file" name="video" accept=".mp4" />
+        <div>Enter the amount of stars in the video:</div>
+        <input type="number" name="amount of stars" />
+        <input type="submit" name="upload" value="Upload" />
+    </form>
+    <h1 style="color:red">{{message}}</h1>
+
+
+
+</body>
+{% endblock %}
