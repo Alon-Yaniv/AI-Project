@@ -5,4 +5,8 @@ The project is divided into three main parts. The first one is YOLOv8 which is a
 
 Black holes are the leftovers of stars that exploded violently. Since the mass of a black hole is concentrated into a small point, the gravitational field of black holes is powerful enough to drag stars towards them. One of the ways of detecting black holes is by spectating the motion of stars in space, since when stars are near a black hole they are forced to orbit around it. This phenomenon usually cannot happen around any other object in space since they don’t create such a strong gravitational field as black holes. By analyzing the star’s motion, we can determine if there is a black hole and calculate its location.
 
+For the training of YOLOv8 model, I created a dataset of images if stars that were retrived from two sources. One from a simulator called "Universe Sandbox", and the other were made using an algorithm I made that take png photos and paste them into backrounds randomly. 
+
 The project included half a year of research and development.
+
+
