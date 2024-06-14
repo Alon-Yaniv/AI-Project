@@ -12,4 +12,5 @@ For the training of YOLOv8 model, I created a dataset of images if stars that we
 ## Demos
 
 The following are Google Colab notebooks which contain the code to use the algrithm. Run all cells and scroll down to the final cell, import inputs and follow the steps.
+
 [File](https://colab.research.google.com/drive/1L1rQMzIzj7OetvhQF6-5owumRNnqrUoa#scrollTo=5TDaks4jl3Xm)
