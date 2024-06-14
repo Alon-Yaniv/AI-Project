@@ -9,6 +9,7 @@ Black holes are the leftovers of stars that exploded violently. Since the mass o
 
 For the training of YOLOv8 model, I created a dataset of images if stars that were retrived from two sources. One from a simulator called "Universe Sandbox", and the other were made using an algorithm I made that take png photos and paste them into backrounds randomly. 
 
+Since there was a dealine for this project I took some assumptions on the video. First the motion od the star is only in 2 dimantions, second moreover stars don't pass on each other. Moreover the algorithm can only calculate the location of a black hole if there is at least one star that have made full orbit around it. The output of this algorithm is a picture that contains the orbits of all of the stars, the location of the black hole (if possible) and a statement if there is a black hole in the video or not.
 ## Demos
 
 The following are Google Colab notebooks which contain the code to use the algrithm. Run all cells and scroll down to the final cell, import inputs and follow the steps.
