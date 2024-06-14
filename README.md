@@ -7,6 +7,5 @@ Black holes are the leftovers of stars that exploded violently. Since the mass o
 
 For the training of YOLOv8 model, I created a dataset of images if stars that were retrived from two sources. One from a simulator called "Universe Sandbox", and the other were made using an algorithm I made that take png photos and paste them into backrounds randomly. 
 
-The project included half a year of research and development.
 
 
