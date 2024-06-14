@@ -10,3 +10,6 @@ Black holes are the leftovers of stars that exploded violently. Since the mass o
 For the training of YOLOv8 model, I created a dataset of images if stars that were retrived from two sources. One from a simulator called "Universe Sandbox", and the other were made using an algorithm I made that take png photos and paste them into backrounds randomly. 
 
 ## Demos
+
+The following are Google Colab notebooks which contain the code to use the algrithm. Run all cells and scroll down to the final cell, import inputs and follow the steps.
+[File](https://colab.research.google.com/drive/1L1rQMzIzj7OetvhQF6-5owumRNnqrUoa#scrollTo=5TDaks4jl3Xm)
