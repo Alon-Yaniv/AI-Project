@@ -12,6 +12,6 @@ For the training of YOLOv8 model, I created a dataset of images if stars that we
 Since there was a dealine for this project I took some assumptions on the video. First the motion od the star is only in 2 dimantions, second moreover stars don't pass on each other. Moreover the algorithm can only calculate the location of a black hole if there is at least one star that have made full orbit around it. The output of this algorithm is a picture that contains the orbits of all of the stars, the location of the black hole (if possible) and a statement if there is a black hole in the video or not.
 ## Demos
 
-The following is Google Colab notebook which contains the code to use the algrithm. Run all cells and scroll down to the final cell and follow the steps.
+The following is Google Colab notebook which contains the code to use the algorithm. Run all cells and scroll down to the final cell and follow the steps.
 
 [Notebook](https://colab.research.google.com/drive/1L1rQMzIzj7OetvhQF6-5owumRNnqrUoa#scrollTo=5TDaks4jl3Xm)
